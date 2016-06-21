@@ -12,4 +12,8 @@ Fork when you want to create your own project from another project on GitHub. Yo
 your local working directory.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-That way you have all the files needed to work offline.
+That way you have all the files needed to work offline. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would create folder that is shared between the collaborators and update it as necessary. Controlling versioning would be a lot harder
+but grabbing current files would be easier
