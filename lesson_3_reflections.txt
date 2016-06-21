@@ -10,3 +10,6 @@ working directory. Branches are where you take existing code and break off to an
 not affect the original code. You use branches when you want to experiment with the intention of putting it back into the code. You use
 Fork when you want to create your own project from another project on GitHub. You use clone when you want to copy an existing project to
 your local working directory.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+That way you have all the files needed to work offline.
